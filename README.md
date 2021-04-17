@@ -16,7 +16,7 @@ This is a portfolio to document my projects that I create while I learn machine 
 
 
 
-## [Logistic Regression Models](https://github.com/mbyoung99/ML_General_Applications/tree/main/Logistic_Regressions)
+## [Logistic Regression Models](https://github.com/mbyoung99/ML_General_Applications/tree/main/Logististic_Regressions)
 * My logistic regression projects for sets of sample data using python with multiple libraries
 * Includes single variable logistic regression models and multivarible logistic regression models
 * Analyses are performed with libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit-Learn
