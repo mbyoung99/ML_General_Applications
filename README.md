@@ -16,7 +16,7 @@ This is a portfolio to document my projects that I create while I learn machine 
 
 
 
-## [Logistic Regression Models](https://github.com/mbyoung99/Logistic_Regressions)
+## [Logistic Regression Models](https://github.com/mbyoung99/ML_General_Applications/tree/main/Logistic_Regressions)
 * My logistic regression projects for sets of sample data using python with multiple libraries
 * Includes single variable logistic regression models and multivarible logistic regression models
 * Analyses are performed with libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit-Learn
@@ -26,21 +26,21 @@ This is a portfolio to document my projects that I create while I learn machine 
 <!--!![](/Images/LogisticModelPlot_histogram.png)-->
 
 
-## [K Nearest Neightbors Models](https://github.com/mbyoung99/K_Nearest_Neighbors)
+## [K Nearest Neightbors Models](https://github.com/mbyoung99/ML_General_Applications/tree/main/K_Nearest_Neighbors)
 * My K Nearest Neighbors projects for sets of sample data using python with multiple libraries
 * Analyses are performed with libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit-Learn
 
 ![](/Images/KNN_k_deter.png)
 
 
-## [Decision Tree and Random Forest Models](https://github.com/mbyoung99/Decision_Trees_Random_Forests)
+## [Decision Tree and Random Forest Models](https://github.com/mbyoung99/ML_General_Applications/tree/main/Decision_Trees_Random_Forests)
 * My Decision Tree and Random Forest projects for sets of sample data using python libraries
 * Analyses are performed with libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit-Learn
 
 ![](/Images/DecisionTreeRandomForest_lmplot.png)
 
 
-## [Support Vector Machine Models](https://github.com/mbyoung99/Support_Vector_Machines)
+## [Support Vector Machine Models](https://github.com/mbyoung99/ML_General_Applications/tree/main/Support_Vector_Machines)
 * My Suport Vector Machine projects for sets of sample data using python with multiple libraries
 * Analyses are performed with libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit-Learn
 
