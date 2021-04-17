@@ -1,4 +1,4 @@
-# General_Application of Machine Learning Algorithms
+# General Application of Machine Learning Algorithms
 This is a portfolio to document my projects that I create while studying and applying machine learning algorithms. 
 * Machine Learning Algorithms: Linear Regression, Logistic Regression, K Nearest Neighbor, Decision Tree, Random Forest, Support Vector Machine, K Means Clustering, Principal Component Analysis, Artificial Neural Networks
 * Programming Languages: Python
